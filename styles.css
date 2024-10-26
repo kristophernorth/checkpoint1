@@ -2,10 +2,6 @@ h1 {
   font-family: "Kablammo", system-ui;
 }
 
-.relative-card {
-  position: relative;
-  top: 2em;
-}
 
 .bg-gray {
   background-color: gray;
@@ -15,4 +11,13 @@ h1 {
   background-image: url(https://images.unsplash.com/photo-1599663253423-7cad6e5fae1e?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
 }
 
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+
+  .relative-card {
+    position: relative;
+    top: 3em;
+  }
+
+
+
+}
