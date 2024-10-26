@@ -18,6 +18,7 @@ h1 {
   background-image: url(https://images.unsplash.com/photo-1599663254500-47f502ca2732?q=80&w=2369&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   background-position: center;
   background-size: cover;
+  min-height: 60dvh;
 }
 
 .bg-map-img {
@@ -47,9 +48,16 @@ h1 {
     top: 3em;
   }
 
-  /* .btn-submit {
-    background-color: rgb(235, 253, 253);
-    color: green;
-  } */
+  .bg-middle-img-medium {
+    background-image: url(https://images.unsplash.com/photo-1599663254500-47f502ca2732?q=80&w=2369&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    max-height: 20dvh;
+  }
+
+
 
 }
+
+/* .btn-submit {
+  background-color: rgb(235, 253, 253);
+  color: green;
+} */
