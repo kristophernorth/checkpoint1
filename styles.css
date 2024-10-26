@@ -32,6 +32,13 @@ h1 {
   padding-right: 2em;
 }
 
+.btn-submit {
+  background-color: rgb(235, 253, 253);
+  color: green;
+  /* border: solid; */
+}
+
+
 
 @media screen and (min-width: 768px) {
 
@@ -40,6 +47,9 @@ h1 {
     top: 3em;
   }
 
-
+  /* .btn-submit {
+    background-color: rgb(235, 253, 253);
+    color: green;
+  } */
 
 }
